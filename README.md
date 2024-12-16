@@ -10,19 +10,19 @@ O **Page Object Model (POM)** ajuda a desacoplar os testes da lógica de localiz
 
 ## 🎥 Demonstração
 
-[![Demonstração do Código] 
+<details>
+<summary>Visualizar Demonstração do Código</summary>
 
-https://github.com/user-attachments/assets/7f404be3-5e09-4059-8af2-efeaf698190a
+[![Clique aqui para assistir ao vídeo](https://github.com/user-attachments/assets/7f404be3-5e09-4059-8af2-efeaf698190a)](https://github.com/user-attachments/assets/7f404be3-5e09-4059-8af2-efeaf698190a)
 
-[![Demonstração do Teste ] 
+</details>
 
-
+<details>
+<summary>Visualizar Demonstração do Teste</summary>
 
 
 https://github.com/user-attachments/assets/89515523-d9ef-46a8-99d1-e0bc6330a383
-
-
-
+</details>
 
 
 Clique na imagem acima para assistir à demonstração do funcionamento dos testes automatizados utilizando o padrão Page Objects.
