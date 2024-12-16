@@ -42,9 +42,11 @@ Este projeto foi criado para:
   └── 📁 e2e
       └── 📄 pageObjectsTest.cy.js     # Testes automatizados principais
   └── 📁 support
-      └── 📄 homePage.js              # Page Object da Home Page
-      └── 📄 loginPage.js             # Page Object da página de Login
-      └── 📄 profilePage.js           # Page Object da página de Perfil
+      └── 📁 pages
+          └── 📄 home.page.js          # Page Object da Home Page
+          └── 📄 login.page.js         # Page Object da página de Login
+          └── 📄 profile.page.js       # Page Object da página de Perfil
+
 ```
 ## 🚀 Tecnologias Utilizadas
 
